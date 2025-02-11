@@ -1,0 +1,25 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.khoangcach {
+    padding: 15px;
+    flex: 1;
+}
+.gio {
+    font-size: 14px;
+    color: #666;
+}
+
+.author {
+    font-weight: bold;
+    color: #7e8799;
+}
+
+.tieudenho {
+    font-size: 16px;
+    color: #555;
+}

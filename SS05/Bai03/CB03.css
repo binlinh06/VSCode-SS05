@@ -1,0 +1,10 @@
+.tieude{
+    color: darkblue;
+}
+.dau{
+    background-color: rgb(65, 118, 233);
+    color: white;
+}
+.user tbody tr:nth-child(even){
+    background-color: rgb(213, 248, 241);
+}

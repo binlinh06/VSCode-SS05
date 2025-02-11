@@ -1,0 +1,35 @@
+.text-example {
+    color: rgb(230, 95, 95);
+    background-color: rgb(219, 243, 243);
+}
+.flame{
+    border: 2px solid green;
+    padding: 10px;
+}
+.Example{
+    background-color: beige;
+    border-left: 10px solid beige;
+    padding: 2px;
+}
+
+.backgound{
+    border-left: 6px solid green;
+    border-right: 10px solid beige;
+    border-radius: 2px;
+    background-color: white;
+    color: red;
+}
+
+.blue{
+    color: rgb(33, 36, 173);
+}
+
+.button{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
