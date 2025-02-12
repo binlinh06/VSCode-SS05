@@ -1,35 +1,46 @@
-.text-example {
-    color: rgb(230, 95, 95);
-    background-color: rgb(219, 243, 243);
+/* B1 Thiết lập thông số chung */
+*{
+    font-family: "Sour Gummy", serif;
+    font-size: 19px;
+    color: rgb(20, 20, 20);
 }
-.flame{
-    border: 2px solid green;
-    padding: 10px;
+.SS06 h3{
+    font-size: 35px; 
 }
-.Example{
-    background-color: beige;
-    border-left: 10px solid beige;
-    padding: 2px;
+.SS06 .syntax{
+    background-color:#eff3f4;
+    color: #ca395c;
 }
-
-.backgound{
-    border-left: 6px solid green;
-    border-right: 10px solid beige;
-    border-radius: 2px;
+.SS06 .demo-figure{
+    border: 3px solid #158317;
+    text-align: center;
+    line-height: 3.5;
+}
+.SS06 .demo-code{
+    background-color: #e5e9ed;
+    padding: 20px;
+    margin-top: 20px;
+}
+.demo-code h4{
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.demo-code .code-content{
     background-color: white;
-    color: red;
+    border-left: 3px solid #05ae6e;
+    padding: 15px;
+    
 }
-
-.blue{
-    color: rgb(33, 36, 173);
+.code-content p:nth-child(1){
+    margin-top: 0;
 }
-
-.button{
-    background-color: green;
-    color: white;
-    padding: 10px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-weight: bold;
+.code-content p:nth-child(4){
+    margin-bottom: 0;
+}
+.code-content p:nth-child(2){
+    margin-left: 20px;
+}
+.code-content p:nth-child(3){
+    margin-left: 20px;
 }
