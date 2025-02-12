@@ -1,0 +1,11 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(20, 20, 20);
+}
+table tbody tr td:nth-child(3){
+    border-left: 2px solid #cccccc;
+}
+span{
+    color: #8c8c8c;
+}

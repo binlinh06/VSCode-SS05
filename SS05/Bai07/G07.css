@@ -1,0 +1,22 @@
+.backgound tbody tr:nth-child(even){
+    background-color: #f2f2f2;
+    border-left: 15px solid rgb(218, 223, 223);
+}
+
+th{
+    background-color: #027bff;
+    color: white;
+}
+
+.view{
+background-color: #28a745;
+color: white;
+}
+
+ .update{
+background-color: #ffc109;
+}
+.delete{
+background-color: #dc3545;
+color: white;
+}
